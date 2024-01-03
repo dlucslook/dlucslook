@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perfil de Roberto Dlucas Olveira Sales</title>
 	<h1>Minha Imagem</h1>
-	<img src="fotoperfil.html" alt="Imagem referente ao meu rosto">
+	<img src="file:///C:/Users/robwerto/Downloads/fotoperfil.html" alt="Imagem referente ao meu rosto">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -59,7 +59,7 @@
 
     <section>
         <h2>Contato</h2>
-        <p>Email: roberto@example.com</p>
+        <p>Email: robertodlucas@gmail.com</p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/roberto-sales">https://www.linkedin.com/in/roberto-d-lucas-oliveira-sales-bb07a2268/</a></p>
         <p>GitHub: <a href="https://github.com/roberto-sales">https://github.com/dlucslook</a></p>
     </section>
