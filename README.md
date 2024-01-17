@@ -6,8 +6,25 @@
 ![Descrição da Imagem 1](caminho/para/imagem1.jpg)
 ![Descrição da Imagem 2](caminho/para/imagem2.jpg)
 
-## Sobre Mim
-Olá, meu nome é Roberto Dlucas Olveira Sales. Atualmente, estou me formando em Tecnólogo em Investigação Forense e Perícia Criminal. Além dos meus estudos na área forense, estou aprendendo sobre programação e HTML. Sou apaixonado por jogos digitais especialmente os jogos da capcom, sony, unreal .
+##Perfil:
+Sou um profissional dedicado e entusiasta da tecnologia, atualmente concluindo o curso de Tecnologia em Investigação Forense. Meu interesse por jogos eletrônicos, combinado com minha busca constante por conhecimento em lógica programacional e suas diversas linguagens, tem moldado minha jornada profissional e acadêmica.
+
+## Projetos Pessoais:
+Atualmente, dedico meu tempo livre para realizar entregas autônomas usando aplicativos de entrega.
+Aplico o conhecimento adquirido para melhorar a eficiência e aprimorar a experiência do usuário no serviço de entrega.
+
+## Objetivos Profissionais:
+Busco oportunidades desafiadoras em uma grande empresa de tecnologia, onde minha paixão pela inovação e minha experiência em suporte técnico podem ser combinadas para contribuir efetivamente para projetos empolgantes.
+
+## Habilidades:
+Lógica programacional e desenvolvimento em diversas linguagens.
+Aplicações práticas de Inteligência Artificial para tornar sistemas mais intuitivos e dinâmicos.
+Forte habilidade de aprendizado autônomo, buscando constantemente atualizações em tecnologias emergentes.
+
+## Experiência Profissional:
+Suporte Técnico:
+Trabalho atualmente com suporte técnico para notebooks, PCs e placas eletrônicas.
+Desenvolvi habilidades sólidas na resolução de problemas técnicos, diagnóstico e manutenção de hardware e software.
 
 ## Formação
 - **Tecnólogo em Investigação Forense e Perícia Criminal**
